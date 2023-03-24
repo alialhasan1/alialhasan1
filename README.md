@@ -1,7 +1,7 @@
 # Welcome to my GitHub Account!
 
 ### Hi there!👋
-My name is Ali. I am passionate about exploring data and finding insights that can help drive business decisions.
+My name is Ali. I have a strong passion for data analytics and the insights that can be extracted to drive business decisions.
 
 ### Education:
 I completed a Master degree in Data Science from The University of Western Australia with a focus on statistical analysis and machine learning. During my studies, I gained experience with various data analysis tools and programming languages including R, Python, SQL, PowerBI and SAS. 
