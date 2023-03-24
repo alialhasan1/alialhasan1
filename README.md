@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My Linkedin account (https://www.linkedin.com/in/ali-alhasan-17678318b/)
 <!--
 **alialhasan1/alialhasan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
