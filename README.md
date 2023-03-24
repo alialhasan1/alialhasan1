@@ -8,7 +8,7 @@ I completed a Master degree in Data Science from The University of Western Austr
 
 Please take a look at my portfolio where I showcase some of the projects I have worked on [portfolio] 
 
-My Linkedin account: [Linkedin](https://www.linkedin.com/in/ali-alhasan-17678318b/)
+You can find my LinkedIn account here [LinkedIn](https://www.linkedin.com/in/ali-alhasan-17678318b/)
 
 <!--
 **alialhasan1/alialhasan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
