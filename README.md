@@ -1,6 +1,14 @@
-### Hi there 👋
+# Welcome to my GitHub Account!
 
-My Linkedin Account: [Linkedin](https://www.linkedin.com/in/ali-alhasan-17678318b/)
+### Hi there!👋
+My name is Ali and I am a Master's degree holder in Data Science. I am passionate about exploring data and finding insights that can help drive business decisions.
+
+### Education
+I completed a Master degree in Data Science from The University of Western Australua with a focus on statistical analysis and machine learning. During my studies, I gained experience with various data analysis tools and programming languages including Python, R, SQL, PowerBI and SAS. 
+
+
+Add me on Linkedin Account: [Linkedin](https://www.linkedin.com/in/ali-alhasan-17678318b/)
+
 <!--
 **alialhasan1/alialhasan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
