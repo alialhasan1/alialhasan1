@@ -4,7 +4,7 @@
 My name is Ali. I have a strong passion for data analytics and the insights that can be extracted to drive business decisions.
 
 ### Education: 🎓
-I completed a Master degree in Data Science from The University of Western Australia with a focus on statistical analysis and machine learning. During my studies, I gained experience with various data analysis tools and programming languages including R, Python, SQL, PowerBI and SAS. 
+I completed a Master degree in Data Science from The University of Western Australia with a focus on statistical analysis and machine learning. During my studies, I gained experience with various data analysis tools and programming languages including R, Python, SQL, Power BI and SAS. 
 
 
 Please take a look at my portfolio where I showcase some of the projects I have worked on [portfolio] 
