@@ -7,7 +7,7 @@ My name is Ali. I have a strong passion for data analytics and the insights that
 I completed a Master degree in Data Science from The University of Western Australia with a focus on statistical analysis and machine learning. During my studies, I gained experience with various data analysis tools and programming languages including R, Python, SQL, Power BI and SAS. 
 
 
-Please take a look at my portfolio where I showcase some of the projects I have worked on [portfolio] 
+Please take a look at my portfolio where I showcase some of the projects I have worked on [portfolio](https://alhasananalytics.wordpress.com/)
 
 
 You can find my LinkedIn account [here](https://www.linkedin.com/in/ali-alhasan-17678318b/)
